@@ -1,0 +1,6 @@
+{
+    "require": {
+        "funeralzone/valueobjects": "^0.0.2",
+        "funeralzone/valueobject-extensions": "^0.0.2"
+    }
+}
